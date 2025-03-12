@@ -11,7 +11,7 @@ class Operaciones {
      * @return float Resultado de la suma.
      */
     public function suma($a, $b) {
-        return $a + $b;
+        return $a + $b; //Validacion sumar.
     }
 
     /**
@@ -33,6 +33,6 @@ class Operaciones {
     public function multiplicacion($a, $b) {
         return $a * $b;
     }
-    
+
 }
 ?>
