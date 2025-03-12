@@ -21,7 +21,7 @@ class Operaciones {
      * @return float Resultado de la resta.
      */
     public function resta($a, $b) {
-        return $a - $b;
+        return $a - $b; //mas comentarios agregados
     }
 
     /**
