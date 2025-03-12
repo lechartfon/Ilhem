@@ -31,7 +31,7 @@ class Operaciones {
      * @return float Resultado de la multiplicación.
      */
     public function multiplicacion($a, $b) {
-        return $a * $b;
+        return $a * $b; //Error arreglado 
     }
 
 }
